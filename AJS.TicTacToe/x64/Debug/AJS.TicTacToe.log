@@ -1,0 +1,22 @@
+﻿  Main.cpp
+C:\Users\300095023\source\repos\AJS.TicTacToe\AJS.TicTacToe\TicTacToe.h(22,8): warning C4101: 'm_boardchar': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+C:\Users\300095023\source\repos\AJS.TicTacToe\AJS.TicTacToe\TicTacToe.h(24,8): warning C4101: 'm_winner': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+C:\Users\300095023\source\repos\AJS.TicTacToe\AJS.TicTacToe\TicTacToe.h(23,7): warning C4101: 'm_numTurns': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+  TicTacToe.cpp
+C:\Users\300095023\source\repos\AJS.TicTacToe\AJS.TicTacToe\TicTacToe.h(22,8): warning C4101: 'm_boardchar': unreferenced local variable
+  (compiling source file 'TicTacToe.cpp')
+  
+C:\Users\300095023\source\repos\AJS.TicTacToe\AJS.TicTacToe\TicTacToe.h(24,8): warning C4101: 'm_winner': unreferenced local variable
+  (compiling source file 'TicTacToe.cpp')
+  
+C:\Users\300095023\source\repos\AJS.TicTacToe\AJS.TicTacToe\TicTacToe.h(23,7): warning C4101: 'm_numTurns': unreferenced local variable
+  (compiling source file 'TicTacToe.cpp')
+  
+  Generating Code...
+  AJS.TicTacToe.vcxproj -> C:\Users\300095023\source\repos\AJS.TicTacToe\x64\Debug\AJS.TicTacToe.exe
